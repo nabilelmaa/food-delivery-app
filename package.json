@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@stripe/react-stripe-js": "^2.1.0",
+    "bootstrap": "^5.2.3",
+    "nodemailer": "^6.9.1",
+    "pg": "^8.9.0",
+    "react-router-dom": "^6.8.1"
+  }
+}
