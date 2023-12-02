@@ -4,7 +4,7 @@ const client = new Client({
   host: 'localhost',
   user: 'postgres',
   port: 5432,
-  password: 'nabil200101@',
+  password: '********',
   database: 'grubhub'
 });
 
